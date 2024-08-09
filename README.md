@@ -21,7 +21,7 @@ I've been writing code since 2005. I'm always striving to improve and learn some
 
 ### Maven Flow
 
-A collection of CI tools to solve common problems faced by teams developing software in Java with Maven using [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/).
+A collection of CI tools for solving common problems faced by teams developing software in Java with Maven using [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/).
 
 - [maven-flow/merge](https://github.com/marketplace/actions/maven-flow-merge): A Github action for merging branches with automatic conflict resolution in changelog and `pom.xml` files.
 
