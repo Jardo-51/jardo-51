@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been writing code since 2005. I'm always striving to improve and learn something new.
+I've been writing code since 2005, professionally since 2010. I'm always striving to improve and learn something new.
 
 ## My Public Work
 
