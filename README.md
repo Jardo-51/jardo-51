@@ -19,6 +19,18 @@ I've been writing code since 2005. I'm always striving to improve and learn some
 
 ## My Public Work
 
+### Kalkules
+
+<https://www.kalkules.com/>
+
+A scientific calculator with many non-traditional tools.
+
+- 22k monthly downloads
+- Translated into 15 languages (long before Chat GPT existed)
+- Featured in several PC publications such as [TrishTech.com](https://www.trishtech.com/2015/10/kalkules-alternative-calculator-for-windows-pc/), [Živě.cz](https://www.zive.cz/clanky/kalkules-kalkulacka-pro-opravdove-matematicke-geeky/sc-3-a-170163/default.aspx), [PCLife.cz](http://www.pclife.cz/1564-kalkules-nabizi-mnohem-vice-nez-nahradu-kalkulacky-ve-windows/)
+
+![Kalkules](img/kalkules_main.png "Kalkules")
+
 ### Maven Flow
 
 A collection of CI tools for solving common problems faced by teams developing software in Java with Maven using [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/).
@@ -41,8 +53,3 @@ Technically a part of Maven Flow, but it can also be used locally as any other G
 
 A reactive version of Feign - a popular Java framework for consuming REST APIs. Since the [original repo](https://github.com/PlaytikaOSS/feign-reactive) seems abandoned, I forked it, made it compatible with Spring Boot >= 3.2, and published the new version to [Maven Central](https://search.maven.org/artifact/com.jardoapps.reactivefeign/feign-reactor/4.1.0/jar?eh=).
 
-### Kalkules
-
-<https://www.kalkules.com/>
-
-A hobby project I created at university. I'm keeping it alive mostly for nostalgic reasons.
