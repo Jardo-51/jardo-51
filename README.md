@@ -47,6 +47,12 @@ A scientific calculator with many non-traditional tools.
 
 ![Kalkules](img/kalkules_main.png "Kalkules")
 
+### Vibe Coded
+
+Yes, there are a lot of these already. But they are not *exactly* how I like them, so I made my own.
+
+- [Macro Tracker](https://github.com/Jardo-51/macro-tracker): A PWA for tracking food nutritional values, works offline, no accunt required.
+
 ### Reactive Feign
 
 <https://github.com/Jardo-51/feign-reactive>
