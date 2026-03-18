@@ -19,18 +19,6 @@ I've been writing code since 2005, professionally since 2010. I'm always strivin
 
 ## My Public Work
 
-### Kalkules
-
-<https://www.kalkules.com/>
-
-A scientific calculator with many non-traditional tools.
-
-- 22k monthly downloads
-- Translated into 15 languages (long before Chat GPT existed)
-- Featured in several PC publications such as [TrishTech.com](https://www.trishtech.com/2015/10/kalkules-alternative-calculator-for-windows-pc/), [Živě.cz](https://www.zive.cz/clanky/kalkules-kalkulacka-pro-opravdove-matematicke-geeky/sc-3-a-170163/default.aspx), [PCLife.cz](http://www.pclife.cz/1564-kalkules-nabizi-mnohem-vice-nez-nahradu-kalkulacky-ve-windows/)
-
-![Kalkules](img/kalkules_main.png "Kalkules")
-
 ### Maven Flow
 
 A collection of CI tools for solving common problems faced by teams developing software in Java with Maven using [Git Flow](https://nvie.com/posts/a-successful-git-branching-model/).
@@ -46,6 +34,18 @@ A collection of CI tools for solving common problems faced by teams developing s
 A GIT merge driver for changelog files, which prevents conflicts when merging feature branches.
 
 Technically a part of Maven Flow, but it can also be used locally as any other GIT merge driver.
+
+### Kalkules
+
+<https://www.kalkules.com/>
+
+A scientific calculator with many non-traditional tools.
+
+- 22k monthly downloads
+- Translated into 15 languages (long before Chat GPT existed)
+- Featured in several PC publications such as [TrishTech.com](https://www.trishtech.com/2015/10/kalkules-alternative-calculator-for-windows-pc/), [Živě.cz](https://www.zive.cz/clanky/kalkules-kalkulacka-pro-opravdove-matematicke-geeky/sc-3-a-170163/default.aspx), [PCLife.cz](http://www.pclife.cz/1564-kalkules-nabizi-mnohem-vice-nez-nahradu-kalkulacky-ve-windows/)
+
+![Kalkules](img/kalkules_main.png "Kalkules")
 
 ### Reactive Feign
 
